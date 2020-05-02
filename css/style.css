@@ -1393,8 +1393,6 @@ ul.ks-cboxtags li input[type="checkbox"]:focus + label {
  font-size:14px;
 }
 /*--/placeholder default colour change--*/
-
-
 /*--input type number hide in HTML5 chrome and firefox browser--*/
 input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button {
  -webkit-appearance: none;
